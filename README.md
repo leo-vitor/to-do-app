@@ -1,8 +1,8 @@
 # to-do-app
-to-do app made to implemente CRUD using IONIC
+to-do app made to implement CRUD using IONIC
 
 
-This project was made with the intention of implementing CRUD using IONIC.. It is a task management application. Enjoy!
+This project was made with the intention of implementing CRUD using IONIC. It is a simple task management application. Enjoy!
 
 ![image](https://user-images.githubusercontent.com/24318314/209416822-19570412-7b29-48a5-9f02-e1dfb3da8bd2.png)
 
