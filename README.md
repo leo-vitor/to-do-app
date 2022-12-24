@@ -4,11 +4,11 @@ to-do app made to implemente CRUD using IONIC
 
 This project was made with the intention of implementing CRUD using IONIC.. It is a task management application. Enjoy!
 
+![image](https://user-images.githubusercontent.com/24318314/209416822-19570412-7b29-48a5-9f02-e1dfb3da8bd2.png)
 
+![image](https://user-images.githubusercontent.com/24318314/209416832-f937aa27-214f-4440-9f5d-ff2951133661.png)
 
-![image](https://user-images.githubusercontent.com/24318314/209412285-2a361ca0-e775-4c43-af57-d7be28fdfb42.png)
+![image](https://user-images.githubusercontent.com/24318314/209416836-62fa0c86-861e-4b92-90ed-2fb918c0a923.png)
 
+![image](https://user-images.githubusercontent.com/24318314/209416842-197268e6-c81d-4a9a-bd10-b437d859238f.png)
 
-![image](https://user-images.githubusercontent.com/24318314/209412305-ce47590d-1086-4dc1-88b3-8ee02855ec0c.png)
-
-![image](https://user-images.githubusercontent.com/24318314/209412334-48141a2b-0b11-463b-96c3-8a22dc64ccec.png)
